@@ -92,12 +92,12 @@ public partial class TextManager : ManagerBase<TextManager>
 		this.talkTextDic_KR.Add(-98, "튜토리얼이 끝나기 전에는 후퇴할 수 없습니다. 조금만 더 버텨보세요!");
 		this.talkTextDic_KR.Add(-99, "카엔뵤 인형을 너무 많이 만들면 진행이 어려워집니다. 진행도는 집 주변에 흩어진 책의 수로 결정됩니다.");
 		this.talkTextDic_KR.Add(-111, "마리사! 책을 언제 돌려줄 거야! 왜 아무 말도 안 해! 집에 있는 거 다 알아!");
-		this.talkTextDic_KR.Add(-112, "조금 더 빌리면 되잖아? 늙으면 돌려줄게.");
-		this.talkTextDic_KR.Add(-113, "또 그 핑계야! 강경하게 나간다!\n3……      2……      1……");
+		this.talkTextDic_KR.Add(-112, "조금 더 빌리면 되잖아? 나중에 돌려줄게.");
+		this.talkTextDic_KR.Add(-113, "또 그 핑계야! 이번엔 강경하게 나간다!\n3……      2……      1……");
 		this.talkTextDic_KR.Add(-114, "…………");
 		this.talkTextDic_KR.Add(-115, "레이무! 이건 이변이야!");
 		this.talkTextDic_KR.Add(-116, "다들 여기서 뭐 하는 거야! 흩어져! 흩어져!");
-		this.talkTextDic_KR.Add(-117, "아무 변명도 안하는거야? 더 할 말 없어?");
+		this.talkTextDic_KR.Add(-117, "뭐야, 이제 변명도 다 떨어진거야? 더 할 말 없어?");
 		this.talkTextDic_KR.Add(-118, "더 할 말 없어. 빨리 행동해.");
 		this.talkTextDic_KR.Add(-100, "마리사의 집을 클릭하세요");
 		this.talkTextDic_KR.Add(-101, "앨리스를 해금하려면 클릭하세요");
