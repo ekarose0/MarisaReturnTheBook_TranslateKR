@@ -1,10 +1,12 @@
 # MarisaReturnTheBook_TranslateKR
 마리사 책 돌려줘!의 한국어 재번역본입니다.
+
 번역은 일부 의역이 있으며 Ai를 중간중간 사용하였기에 검수 못한 부분이 있을 수 있습니다.
+
 번역파일을 직접 패치해야하니 순서에 맞게 따라해주시면 됩니다.
 
 ## 준비물
-1. 게임원본(스팀버전) version 1.00
+1. 게임원본(스팀버전)
 2. DnSpy [[다운링크](https://github.com/dnSpyEx/dnSpy/releases/tag/v6.5.1)]
 3. 프로젝트 번역파일(복사 혹은 다운받기)
 (.cs 파일은 .txt로 바꿔 열어도 문제 없습니다)
@@ -37,4 +39,8 @@
 8. 해당창이 뜨면 OK를 눌러주시면 패치가 완료됩니다. (완료된 후엔 DnSpy를 삭제해도 무방합니다)
 <img width="492" height="444" alt="image" src="https://github.com/user-attachments/assets/6f6612cb-7c94-4d3b-a7e8-48120c5b9386" />
 
+---
+
 문제가 있거나 번역 개선방향이 있다면 존재한다면 이슈에 글을 써주세요!
+
+version 1.00을 기준으로 작성되었습니다. 업데이트시 문제가 있을 수 있습니다.
