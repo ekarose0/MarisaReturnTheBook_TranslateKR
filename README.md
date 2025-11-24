@@ -31,7 +31,7 @@
 5. 상단 Edit - Edit Method(C#)을 눌러 창을 띄워 줍니다.
 <img width="1290" height="715" alt="image" src="https://github.com/user-attachments/assets/838c2ec2-163f-4b48-ae13-408bf8af49c8" />
 
-6. 이 프로젝트에 첨부된 번역본을 복사하여 전체 붙여넣기를 한뒤 Compile버튼을 눌러줍니다
+6. 이 프로젝트에 첨부된 번역본을 복사하여 기존에 모든 내용을 삭제한뒤 전체 붙여넣기를 하고 Compile버튼을 눌러줍니다
 
 7. 상단 File - Save all을 눌러 줍니다. 
 <img width="310" height="401" alt="image" src="https://github.com/user-attachments/assets/5a617978-6b7e-408b-9a2a-2d8ad2163d63" />
@@ -41,6 +41,8 @@
 
 ---
 
-문제가 있거나 번역 개선방향이 있다면 존재한다면 이슈에 글을 써주세요!
+만약 패치가 잘못됐거나 게임이 실행되지 않는다면 무결성검사를 하고(본래 번역으로 돌아갑니다) 다시 따라해보세요.
 
 version 1.00을 기준으로 작성되었습니다. 업데이트시 문제가 있을 수 있습니다.
+
+문제가 있거나 번역 개선방향이 있다면 존재한다면 이슈에 글을 써주세요!
