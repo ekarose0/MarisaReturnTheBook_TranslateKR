@@ -23,3 +23,13 @@ Steam - "로컬파일 탐색"을 눌러 파일에 들어갑니다
 version 1.00을 기준으로 작성되었습니다. 업데이트시 문제가 있을 수 있습니다.
 
 문제가 있거나 번역 개선방향이 있다면 존재한다면 이슈에 글을 써주세요!
+
+---
+
+## 포함 내용
+- BepInEx 5.x
+- MRTB_KR_RETrans.dll
+
+## 라이선스
+- BepInEx: LGPL-2.1
+- MRTB_RETrans: MIT License (현재모드)
