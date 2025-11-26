@@ -1,9 +1,14 @@
-# MarisaReturnTheBook_TranslateKR || MRTB_KR_RETrans
+# MarisaReturnTheBook_TranslateKR || MRTB_KR_RETrans V 1.13
+
+<img width="1907" height="1072" alt="image" src="https://github.com/user-attachments/assets/d4814299-05bb-4868-984f-4f62a2daab78" />
+
 마리사 책 돌려줘!의 한국어 재번역본입니다.
 
 번역은 일부 의역이 있으며 게임내 창조됐다고 생각한 부분은 Ai로 번역 사용하였기에 검수 못한 부분이 있을 수 있습니다.
 
-모드 파일을 순서에 맞게 넣어주시면 됩니다.
+모드 두가지 파일을 아래 설명에 맞게 압축해제하여 넣어주시면 됩니다.
+- 선행파일(한번 넣으면 다음 업데이트에는 안넣어도 무관)
+- 본 모드(업데이트 할 때마다 덮어쓰는 모드파일)
 
 ## 파일
 [링크](https://github.com/ekarose0/MarisaReturnTheBook_TranslateKR/releases/tag/MarisaReturnTheBook)
@@ -20,7 +25,7 @@ Steam - "로컬파일 탐색"을 눌러 파일에 들어갑니다
 
 만약 패치가 잘못됐거나 게임이 실행되지 않는다면 무결성검사를 하고(본래 번역으로 돌아갑니다) 다시 따라해보세요.
 
-version 1.00을 기준으로 작성되었습니다. 업데이트시 문제가 있을 수 있습니다.
+모드버전은 게임버전을 기준으로 작성되었습니다. 서로 동일하게 표시되어있는지 확인해주시고 업데이트시 UI표기에 문제가 있을 수 있습니다.
 
 문제가 있거나 번역 개선방향이 있다면 존재한다면 이슈에 글을 써주세요!
 
