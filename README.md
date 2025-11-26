@@ -1,4 +1,4 @@
-# MarisaReturnTheBook_TranslateKR
+# MarisaReturnTheBook_TranslateKR || MRTB_RETrans
 마리사 책 돌려줘!의 한국어 재번역본입니다.
 
 번역은 일부 의역이 있으며 게임내 창조됐다고 생각한 부분은 Ai로 번역 사용하였기에 검수 못한 부분이 있을 수 있습니다.
