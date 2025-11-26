@@ -3,7 +3,7 @@
 
 번역은 일부 의역이 있으며 게임내 창조됐다고 생각한 부분은 Ai로 번역 사용하였기에 검수 못한 부분이 있을 수 있습니다.
 
-번역파일을 직접 패치해야하니 순서에 맞게 따라해주시면 됩니다.
+모드 파일을 순서에 맞게 넣어주시면 됩니다.
 
 ## 파일
 [링크](https://github.com/ekarose0/MarisaReturnTheBook_TranslateKR/releases/tag/MarisaReturnTheBook)
