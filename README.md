@@ -11,7 +11,9 @@
 - 본 모드(업데이트 할 때마다 덮어쓰는 모드파일)
 
 ## 준비물
-선행모드를 다운받아주세요 [선행모드 다운위치](https://github.com/bepinex/bepinex/releases)
+선행모드를 다운받아주세요 
+
+[[선행모드 파일](https://github.com/bepinex/bepinex/releases)]
 
 윈도우 사용자는 64비트유저라면 Win64를, 32비트라면 Win86을 다운받아 주시고
 
@@ -20,7 +22,8 @@
 
 ## 패치방법
 우측 Releases에서 파일을 다운받거나 아래 링크에서 최신버전으로 받아주세요.
-[모드 파일](https://github.com/ekarose0/MarisaReturnTheBook_TranslateKR/releases)
+
+[[모드 파일](https://github.com/ekarose0/MarisaReturnTheBook_TranslateKR/releases)]
 
 모드파일 버전은 인게임 버전과 동일해야하며 모드버전은 실행시 좌상단에, 인게임은 우하단에 버전이 표기됩니다
 
