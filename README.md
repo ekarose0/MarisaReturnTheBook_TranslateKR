@@ -5,39 +5,16 @@
 
 번역파일을 직접 패치해야하니 순서에 맞게 따라해주시면 됩니다.
 
-## 준비물
-1. 게임원본(스팀버전)
-2. DnSpy [[다운링크](https://github.com/dnSpyEx/dnSpy/releases/tag/v6.5.1)]
-3. 프로젝트 번역파일(복사 혹은 다운받기)
-(.cs 파일은 .txt로 바꿔 열어도 문제 없습니다)
- 
+## 파일
+[링크](https://github.com/ekarose0/MarisaReturnTheBook_TranslateKR/releases/tag/MarisaReturnTheBook)
+
 ## 패치방법
-1. DnSpy를 실행합니다
+우측 Releases에서 파일을 다운받거나 위 파일 링크에서 받아주세요.
 
-2. 상단 File의 Open을 눌러줍니다.
-<img width="1288" height="716" alt="image" src="https://github.com/user-attachments/assets/33d4b537-73f9-4543-ab76-3b81232d5ee8" />
+Steam - "로컬파일 탐색"을 눌러 파일에 들어갑니다
+게임 실행이 있는 폴더까지 갔다면 해당 파일내부에 위에 받은 파일을 풀어주세요 (압축 해제시 폴더 생성하지 않고 그대로 넣으시면 됩니다)
 
-3.  "\SteamLibrary\steamapps\common\Marisa!ReturnTheBook!\Marisa!ReturnTheBook!\MarisaReturnTheBook_Data\Managed"에 Assembly-CSharp.dll을 열어줍니다 (해당 위치는 조금씩 다를 수 있습니다)
-
-<img width="716" height="162" alt="image" src="https://github.com/user-attachments/assets/1876ce9b-1bf7-445c-9527-ca098053ea17" />
-4. 다음과 같은 순서로 경로를 열어 해당 위치까지 접근합니다.
-
-- Assembly-CSharp(0.0.0.0)[최상위 부모]
-  - Assembly-CSharp.dll
-    - {}-
-      - TextManager @0200005C
-        - GetDataByKR():void @060002E4
-
-5. 상단 Edit - Edit Method(C#)을 눌러 창을 띄워 줍니다.
-<img width="1290" height="715" alt="image" src="https://github.com/user-attachments/assets/838c2ec2-163f-4b48-ae13-408bf8af49c8" />
-
-6. 이 프로젝트에 첨부된 번역본을 복사하여 기존에 모든 내용을 삭제한뒤 전체 붙여넣기를 하고 Compile버튼을 눌러줍니다
-
-7. 상단 File - Save all을 눌러 줍니다. 
-<img width="310" height="401" alt="image" src="https://github.com/user-attachments/assets/5a617978-6b7e-408b-9a2a-2d8ad2163d63" />
-
-8. 해당창이 뜨면 OK를 눌러주시면 패치가 완료됩니다. (완료된 후엔 DnSpy를 삭제해도 무방합니다)
-<img width="492" height="444" alt="image" src="https://github.com/user-attachments/assets/6f6612cb-7c94-4d3b-a7e8-48120c5b9386" />
+게임 실행시 우측 상단에 모드 적용 여부 체크하시면 완료!
 
 ---
 
