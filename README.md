@@ -7,19 +7,30 @@
 번역은 일부 의역이 있으며 게임내 창조됐다고 생각한 부분은 Ai로 번역 사용하였기에 검수 못한 부분이 있을 수 있습니다.
 
 모드 두가지 파일을 아래 설명에 맞게 압축해제하여 넣어주시면 됩니다.
-- 선행파일(한번 넣으면 다음 업데이트에는 안넣어도 무관)
+- [선행파일(한번 넣으면 다음 업데이트에는 안넣어도 무관)](https://github.com/bepinex/bepinex/releases)
 - 본 모드(업데이트 할 때마다 덮어쓰는 모드파일)
 
-## 파일
-[링크](https://github.com/ekarose0/MarisaReturnTheBook_TranslateKR/releases/tag/MarisaReturnTheBook)
+## 준비물
+선행모드를 다운받아주세요 [선행모드 다운위치](https://github.com/bepinex/bepinex/releases)
+
+윈도우 사용자는 64비트유저라면 Win64를, 32비트라면 Win86을 다운받아 주시고
+
+맥 사용자는 Macos를 다운받아 주시면 됩니다
+
 
 ## 패치방법
-우측 Releases에서 파일을 다운받거나 위 파일 링크에서 받아주세요.
+우측 Releases에서 파일을 다운받거나 아래 링크에서 최신버전으로 받아주세요.
+[모드 파일](https://github.com/ekarose0/MarisaReturnTheBook_TranslateKR/releases)
+
+모드파일 버전은 인게임 버전과 동일해야하며 모드버전은 실행시 좌상단에, 인게임은 우하단에 버전이 표기됩니다
 
 Steam - "로컬파일 탐색"을 눌러 파일에 들어갑니다
-게임 실행이 있는 폴더까지 갔다면 해당 파일내부에 위에 받은 파일을 풀어주세요 (압축 해제시 폴더 생성하지 않고 그대로 넣으시면 됩니다)
+게임 실행파일(MarisaReturnTheBook.exe)이 있는 폴더까지 갔다면 해당 파일내부에 위에 받은 파일을 풀어주세요 (압축 해제시 폴더 생성하지 않고 그대로 넣으시면 됩니다)
 
-게임 실행시 우측 상단에 모드 적용 여부 체크하시면 완료!
+다음과 같이 두개의 파일 모두 압축해제되었다면 다음과 같은 파일구조가 완성됩니다.
+<img width="614" height="315" alt="image" src="https://github.com/user-attachments/assets/52716291-9add-4387-970a-9b8b0f32ad93" />
+
+게임 실행시 우측 상단에 버전 체크하시면 완료!
 
 ---
 
