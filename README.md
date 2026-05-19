@@ -1,6 +1,6 @@
-# MarisaReturnTheBook_TranslateKR || MRTB_KR_RETrans V 1.13
+# MarisaReturnTheBook_TranslateKR || MRTB_KR_RETrans V 1.50
 
-<img width="1914" height="1072" alt="image" src="https://github.com/user-attachments/assets/c4371bc5-2a82-442f-bda1-bf41a7fda13a" />
+<img width="1915" height="1079" alt="image" src="https://github.com/user-attachments/assets/d4c464a5-5ed4-44f3-92ff-25f942a8a2a9" />
 
 마리사 책 돌려줘!의 한국어 재번역본입니다.
 
